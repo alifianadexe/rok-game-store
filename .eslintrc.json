@@ -25,6 +25,7 @@
         "space-before-blocks": "off",
         "react/jsx-indent": "off",
         "jsx-a11y/anchor-is-valid": "off",
-        "linebreak-style": 0
+        "linebreak-style": ["error", "windows"]
+
     }
 }
