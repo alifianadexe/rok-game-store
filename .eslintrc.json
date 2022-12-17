@@ -19,6 +19,7 @@
         "react",
         "@typescript-eslint"
     ],
+    "linebreak-style": ["error", "windows"],
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "react/react-in-jsx-scope": "off",
