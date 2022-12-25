@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Illustration() {
   return (
     <div className="col-lg-6 col-12 d-lg-block d-none">

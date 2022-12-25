@@ -140,4 +140,4 @@ export default function Testimonial() {
       </MDBRow>
     </MDBContainer>
   );
-}
+};
