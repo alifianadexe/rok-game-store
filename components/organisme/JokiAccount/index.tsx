@@ -6,14 +6,17 @@ export default function JokiAccount() {
         <main className="main-wrapper">
           <div className="ps-lg-0">
             <div className="top-up-categories mb-30">
+<<<<<<< HEAD
               <p className="text-lg fw-medium color-palette-1 mb-14">
                 Categories
               </p>
+=======
+>>>>>>> 1332d6514a3b92a76e5ef33c51b48eb8821b3436
               <div className="main-content">
-                <div className="row" data-aos="fade-up">
-                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
+                <div className="row gap-lg-0 gap-5" data-aos="fade-up">
+                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4 text-center">
                     <div className="categories-card">
-                      <div className="d-flex align-items-center mb-24">
+                      <div className="align-items-center mb-24">
                         <svg
                           width="60"
                           height="60"
@@ -106,9 +109,14 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
+<<<<<<< HEAD
                         <p className="color-palette-1 mb-0 ms-12">
                           AOO
                           <br />
+=======
+                        <p className="color-palette-1 mb-24 mt-25  ms-12">
+                          Game Desktop
+>>>>>>> 1332d6514a3b92a76e5ef33c51b48eb8821b3436
                         </p>
                       </div>
                       <div>
@@ -121,9 +129,9 @@ export default function JokiAccount() {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
+                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4 text-center">
                     <div className="categories-card">
-                      <div className="d-flex align-items-center mb-24">
+                      <div className="align-items-center mb-24">
                         <svg
                           width="60"
                           height="60"
@@ -194,9 +202,14 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
+<<<<<<< HEAD
                         <p className="color-palette-1 mb-0 ms-12">
                           Hunt
                           <br /> Babarkan
+=======
+                        <p className="color-palette-1 mb-24 mt-25 ms-12">
+                          Game Mobile
+>>>>>>> 1332d6514a3b92a76e5ef33c51b48eb8821b3436
                         </p>
                       </div>
                       <div>
@@ -209,9 +222,9 @@ export default function JokiAccount() {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
+                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4 text-center">
                     <div className="categories-card">
-                      <div className="d-flex align-items-center mb-24">
+                      <div className="align-items-center mb-24">
                         <svg
                           width="60"
                           height="60"
@@ -305,9 +318,14 @@ export default function JokiAccount() {
                           </g>
                         </svg>
 
+<<<<<<< HEAD
                         <p className="color-palette-1 mb-0 ms-12">
                           Marauder
                           <br />
+=======
+                        <p className="color-palette-1 mb-24 mt-25 ms-12">
+                          Other Categories
+>>>>>>> 1332d6514a3b92a76e5ef33c51b48eb8821b3436
                         </p>
                       </div>
                       <div>
@@ -320,9 +338,9 @@ export default function JokiAccount() {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
+                  <div className="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4 text-center">
                     <div className="categories-card">
-                      <div className="d-flex align-items-center mb-24">
+                      <div className="align-items-center mb-24">
                         <svg
                           width="60"
                           height="60"
@@ -415,9 +433,15 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
+<<<<<<< HEAD
                         <p className="color-palette-1 mb-0 ms-12">
                           MGE
                           <br />
+=======
+
+                        <p className="color-palette-1 mb-24 mt-25 ms-12">
+                          Other Categories
+>>>>>>> 1332d6514a3b92a76e5ef33c51b48eb8821b3436
                         </p>
                       </div>
                       <div>

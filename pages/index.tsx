@@ -10,6 +10,8 @@ import Footer from "../components/organisme/Footer";
 import TopUp from "../components/organisme/TopUp";
 import JokiAccount from "../components/organisme/JokiAccount";
 import BotPage from "../components/organisme/BotPage";
+import OthersProduct from "../components/organisme/OthersProduct";
+import Testimonial from "../components/organisme/Testimonial";
 
 export default function Home() {
   useEffect(() => {
@@ -24,8 +26,10 @@ export default function Home() {
       <TopUp />
       <JokiAccount />
       <BotPage />
+      <OthersProduct />
       <FeaturedGame />
       <Reached />
+      <Testimonial />
       <Story />
       <Footer />
     </>
