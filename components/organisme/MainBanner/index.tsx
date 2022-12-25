@@ -1,24 +1,19 @@
-import Image from "next/dist/client/image";
+
 import Illustration from "./Illustration";
 
 export default function MainBanner() {
   return (
-    <section className="header pt-lg-60 pb-50 background">
+    <section className="header pt-601 pb-501 background">
       <div className="container-xxl container-fluid">
         <div className="row gap-lg-0 gap-5">
           <div className="col-lg-6 col-12 my-auto">
-            <p className="text-support text-lg color-palette-2">Halo gamers,</p>
-            <h1 className="header-title color-palette-1 fw-bold">
-              Topup & Get <span className="d-sm-inline d-none">a</span>
-              <span className="d-sm-none d-inline">a</span>
-              <span className="underline-blue"> New</span>{" "}
+            <h1 className="header-title color-palette-5 fw-bold">
+              Top Up Now
               <br className="d-sm-block d-none" />{" "}
-              <span className="underline-blue">Experience</span> in Gaming
+              <span className="underline-blue">Get More Experience</span>
             </h1>
-            <p className="mt-30 mb-40 text-lg color-palette-1">
-              Kami menyediakan jutaan cara untuk membantu
-              <br className="d-md-block d-none" /> players menjadi pemenang
-              sejati
+            <p className="mt-30 mb-30 text-lg color-palette-5">
+              we provide many ways for you to be a winner
             </p>
             <div className="d-flex flex-lg-row flex-column gap-4">
               <a
@@ -27,13 +22,6 @@ export default function MainBanner() {
                 role="button"
               >
                 Get Started
-              </a>
-              <a
-                className="btn-learn text-lg color-palette-1 my-auto text-center"
-                href="#"
-                role="button"
-              >
-                Learn More
               </a>
             </div>
           </div>

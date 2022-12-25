@@ -7,16 +7,16 @@ export default function CompleteCheckout() {
                         xmlns="http://www.w3.org/2000/svg">
                         <g clip-path="url(#clip0)">
                             <path d="M263.96 271.587C264.986 271.07 265.5 270.554 266.525 270.037" stroke="#FF78B7"
-                                stroke-width="0.6123" stroke-linecap="round" stroke-linejoin="round" />
+                                stroke-width="0.6123" strokeLinecap="round" stroke-linejoin="round" />
                             <path
                                 d="M276.786 262.804C284.994 256.605 293.202 250.406 299.873 242.657C310.132 231.292 317.827 216.31 317.315 200.812C317.315 189.963 313.211 179.631 309.107 169.299C305.001 159.484 300.385 149.152 298.845 138.303C297.306 127.454 298.845 115.572 306.541 107.823C311.159 102.657 319.367 100.074 325.523 105.24C327.574 107.307 329.114 109.89 330.141 112.99C339.374 143.469 298.333 162.584 273.708 156.901C261.908 153.801 250.622 147.085 241.387 139.336C221.892 123.321 208.04 108.857 199.832 84.5764C192.65 63.9121 188.032 41.1817 172.642 24.1337C121.339 -32.6927 20.2732 34.9825 19.7601 100.591C19.7601 137.787 42.8462 174.982 77.7319 185.83C94.6618 190.997 113.131 189.963 131.087 188.93C139.808 188.414 148.529 187.897 157.764 187.38"
-                                stroke="#FF78B7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.22 4" />
+                                stroke="#FF78B7" strokeLinecap="round" stroke-linejoin="round" stroke-dasharray="1.22 4" />
                             <path d="M163.407 187.897C164.433 187.897 165.46 187.897 166.486 187.897" stroke="#FF78B7"
-                                stroke-width="0.6123" stroke-linecap="round" stroke-linejoin="round" />
+                                stroke-width="0.6123" strokeLinecap="round" stroke-linejoin="round" />
                             <path d="M30.5337 294.317H334.245" stroke="#B1B9CC" stroke-width="2" stroke-miterlimit="10"
-                                stroke-linecap="round" stroke-linejoin="round" />
+                                strokeLinecap="round" stroke-linejoin="round" />
                             <path d="M2.8302 294.317H15.1428" stroke="#B1B9CC" stroke-width="2" stroke-miterlimit="10"
-                                stroke-linecap="round" stroke-linejoin="round" />
+                                strokeLinecap="round" stroke-linejoin="round" />
                             <path d="M254.212 33.9492H185.98V111.44H254.212V33.9492Z" fill="#B4C2D1" />
                             <path d="M254.212 33.9492H208.553V111.44H254.212V33.9492Z" fill="url(#paint0_linear)" />
                             <path d="M195.283 16.981H90.5659V135.849H195.283V16.981Z" fill="url(#paint1_linear)" />
@@ -42,7 +42,7 @@ export default function CompleteCheckout() {
                                 fill="#B4C2D1" />
                             <path
                                 d="M239.847 95.4248V119.189C239.847 143.469 220.352 162.583 196.753 162.583C172.641 162.583 153.659 142.952 153.659 119.189V95.4248"
-                                stroke="white" stroke-width="1.8941" stroke-miterlimit="10" stroke-linecap="round"
+                                stroke="white" stroke-width="1.8941" stroke-miterlimit="10" strokeLinecap="round"
                                 stroke-linejoin="round" />
                             <path opacity="0.7"
                                 d="M280.89 275.72L150.068 300C148.016 298.967 146.477 296.383 146.477 293.802V215.277C146.477 211.144 149.555 208.044 153.659 208.044H273.707L280.89 275.72Z"

@@ -346,7 +346,7 @@ a:hover, a:focus {
 	padding: 1em 2em;
 	color: #fff;
 	border-radius: 30px;
-	background: #E03E3E;
+	background: #ff7f0d;
 	-webkit-transition: background-color 0.3s;
 	transition: background-color 0.3s;
 }

@@ -10,9 +10,6 @@ export default function TopUp() {
           <Illustration />
           <div className="col-lg-6 col-12 d-lg-block d-none">
             <div className="latest-transaction">
-              <p className="text-lg fw-medium color-palette-1 mb-14">
-                Latest Transactions
-              </p>
               <div className="main-content main-content-table overflow-auto">
                 <table className="table table-borderless">
                   <thead>
