@@ -29,19 +29,12 @@ export default function JokiAccount() {
                         className="align-items-center mb-24"
                         onClick={() => {
                           Swal.fire({
-                            title: "Daily Bot",
-                            icon: "info",
-                            text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                            title: "Daily",
+                            text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products" ,
                             width: 650,
                             padding: "3em",
                             color: "#716add",
                             background: "#fff",
-                            backdrop: `
-                              rgba(0,0,123,0.4)
-                              url("/img/nyan-cat.gif")
-                              left top
-                              no-repeat
-                            `,
                           });
                         }}
                       >
@@ -152,19 +145,12 @@ export default function JokiAccount() {
                       className="categories-card"
                       onClick={() => {
                         Swal.fire({
-                          title: "Daily Bot",
-                          icon: "info",
-                          text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                          title: "Daily Plus",
+                          text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products + Clear Sunset Conyon Mission, Take Resource, Clear Barbarian, Donate Alliance, Use Speed Gathering Item and Power Up Book",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
                           background: "#fff",
-                          backdrop: `
-                              rgba(0,0,123,0.4)
-                              url("/img/nyan-cat.gif")
-                              left top
-                              no-repeat
-                            `,
                         });
                       }}
                     >
@@ -241,7 +227,6 @@ export default function JokiAccount() {
                         </svg>
                         <p className="color-palette-1  mb-24 mt-25">
                           Daily Plus
-                          <br /> *rincian joki daily plus*
                         </p>
                       </div>
                       <div>
@@ -257,19 +242,12 @@ export default function JokiAccount() {
                       className="categories-card"
                       onClick={() => {
                         Swal.fire({
-                          title: "Daily Bot",
-                          icon: "info",
-                          text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                          title: "Special",
+                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
                           background: "#fff",
-                          backdrop: `
-                              rgba(0,0,123,0.4)
-                              url("/img/nyan-cat.gif")
-                              left top
-                              no-repeat
-                            `,
                         });
                       }}
                     >
@@ -368,7 +346,6 @@ export default function JokiAccount() {
                         </svg>
                         <p className="color-palette-1 mb-0  mb-24 mt-25 ">
                           Special
-                          <br /> *rincian joki spesial/ khusus*
                         </p>
                       </div>
                       <div>
@@ -693,7 +670,7 @@ export default function JokiAccount() {
                           </g>
                         </svg>
                         <p className="color-palette-1 mb-24 mt-25">
-                          MGE
+                          GB Kill
                           <br />
                         </p>
                       </div>

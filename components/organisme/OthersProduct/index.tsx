@@ -19,10 +19,9 @@ export default function OthersProduct() {
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
+                  Buy and Sell:
+                  <br /> Resources (Wood, Corn, Stone)
                 </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
               </div>
             </div>
           </div>
@@ -39,10 +38,9 @@ export default function OthersProduct() {
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
+                  Buy:
+                  <br /> ROK Account
                 </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
               </div>
             </div>
           </div>
@@ -58,11 +56,7 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
-                </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10"> Unbind Account</p>
               </div>
             </div>
           </div>
@@ -78,11 +72,7 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
-                </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">Change Account</p>
               </div>
             </div>
           </div>
@@ -98,11 +88,7 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
-                </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">Passport Item</p>
               </div>
             </div>
           </div>
@@ -118,11 +104,7 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Mobile Legends:
-                  <br /> The New Battle 2021
-                </p>
-                <p className="color-palette-2 m-0">Category: Mobile</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10"> </p>
               </div>
             </div>
           </div>
