@@ -95,7 +95,7 @@
     transition: all 0.4s;
     border-radius: 1.625rem;
     width: 205px;
-    height: 270px;
+    height: 205px;
 }
 
 .featured-game .featured-game-card:hover{
@@ -106,8 +106,8 @@
 .featured-game .featured-game-card:hover img.thumbnail{
     transition: all 0.4s;
     filter: blur(40px);
-    width: 181px;
-    height: 246px;   
+    width: 205px;
+    height: 205px;   
 }
 
 .featured-game .featured-game-card .blur-sharp{
@@ -124,7 +124,6 @@
     opacity: 0;
     left: 0;
     right: 0;
-    height: -webkit-fill-available;
 }
 
 .featured-game .featured-game-card:hover .cover{

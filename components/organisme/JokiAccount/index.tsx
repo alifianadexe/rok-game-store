@@ -1,4 +1,18 @@
+import React, { useState } from "react";
+import {
+  MDBBtn,
+  MDBModal,
+  MDBModalDialog,
+  MDBModalContent,
+  MDBModalHeader,
+  MDBModalTitle,
+  MDBModalBody,
+} from "mdb-react-ui-kit";
+
 export default function JokiAccount() {
+  const [optSmModal, setOptSmModal] = useState(false);
+  const toggleShow = () => setOptSmModal(!optSmModal);
+
   return (
     <section className="header pt-50 pb-50">
       <div className="container-fluid">
@@ -10,7 +24,10 @@ export default function JokiAccount() {
                 <div className="row gap-lg-0 gap-5" data-aos="fade-up">
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
                     <div className="categories-card">
-                      <div className="align-items-center mb-24">
+                      <div
+                        className="align-items-center mb-24"
+                        onClick={toggleShow}
+                      >
                         <svg
                           width="60"
                           height="60"
@@ -103,10 +120,7 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">Daily
-                        <br />VIP Claim, Riset & Building Updagre, Train Troops, Clear Quest Sunset Canyon, 
-                              Material Production, Hunt Barbarian, (rincian joki daily biasa)
-                        </p>
+                        <p className="color-palette-1 mb-24 mt-25">Daily</p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
@@ -191,7 +205,7 @@ export default function JokiAccount() {
                         </svg>
                         <p className="color-palette-1  mb-24 mt-25">
                           Daily Plus
-                          <br /> *rincian joki daily plus* 
+                          <br /> *rincian joki daily plus*
                         </p>
                       </div>
                       <div>
