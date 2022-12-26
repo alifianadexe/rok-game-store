@@ -8,6 +8,7 @@ import {
   MDBModalTitle,
   MDBModalBody,
 } from "mdb-react-ui-kit";
+import Swal from "sweetalert2";
 
 export default function JokiAccount() {
   const [optSmModal, setOptSmModal] = useState(false);
@@ -26,7 +27,23 @@ export default function JokiAccount() {
                     <div className="categories-card">
                       <div
                         className="align-items-center mb-24"
-                        onClick={toggleShow}
+                        onClick={() => {
+                          Swal.fire({
+                            title: "Daily Bot",
+                            icon: "info",
+                            text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                            width: 650,
+                            padding: "3em",
+                            color: "#716add",
+                            background: "#fff",
+                            backdrop: `
+                              rgba(0,0,123,0.4)
+                              url("/img/nyan-cat.gif")
+                              left top
+                              no-repeat
+                            `,
+                          });
+                        }}
                       >
                         <svg
                           width="60"
@@ -131,7 +148,26 @@ export default function JokiAccount() {
                     </div>
                   </div>
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
-                    <div className="categories-card">
+                    <div
+                      className="categories-card"
+                      onClick={() => {
+                        Swal.fire({
+                          title: "Daily Bot",
+                          icon: "info",
+                          text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                          width: 650,
+                          padding: "3em",
+                          color: "#716add",
+                          background: "#fff",
+                          backdrop: `
+                              rgba(0,0,123,0.4)
+                              url("/img/nyan-cat.gif")
+                              left top
+                              no-repeat
+                            `,
+                        });
+                      }}
+                    >
                       <div className="align-items-center mb-24">
                         <svg
                           width="60"
@@ -217,7 +253,26 @@ export default function JokiAccount() {
                     </div>
                   </div>
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
-                    <div className="categories-card">
+                    <div
+                      className="categories-card"
+                      onClick={() => {
+                        Swal.fire({
+                          title: "Daily Bot",
+                          icon: "info",
+                          text: "Kami menyediakan jutaan cara untuk membantu players menjadi pemenang sejati",
+                          width: 650,
+                          padding: "3em",
+                          color: "#716add",
+                          background: "#fff",
+                          backdrop: `
+                              rgba(0,0,123,0.4)
+                              url("/img/nyan-cat.gif")
+                              left top
+                              no-repeat
+                            `,
+                        });
+                      }}
+                    >
                       <div className="align-items-center mb-24">
                         <svg
                           width="60"
