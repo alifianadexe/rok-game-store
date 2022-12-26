@@ -103,12 +103,15 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">AOO</p>
+                        <p className="color-palette-1 mb-24 mt-25">Daily
+                        <br />VIP Claim, Riset & Building Updagre, Train Troops, Clear Quest Sunset Canyon, 
+                              Material Production, Hunt Barbarian, (rincian joki daily biasa)
+                        </p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-1 fw-medium m-0">
-                          $8 USD
+                          $9.6 USD/Month
                         </p>
                       </div>
                     </div>
@@ -187,13 +190,14 @@ export default function JokiAccount() {
                           </g>
                         </svg>
                         <p className="color-palette-1  mb-24 mt-25">
-                          Hunt Babarkan
+                          Daily Plus
+                          <br /> *rincian joki daily plus* 
                         </p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-1 fw-medium m-0">
-                          $8 USD/24H
+                          $32 USD/Month
                         </p>
                       </div>
                     </div>
@@ -294,13 +298,14 @@ export default function JokiAccount() {
                           </g>
                         </svg>
                         <p className="color-palette-1 mb-0  mb-24 mt-25 ">
-                          Marauder
+                          Special
+                          <br /> *rincian joki spesial/ khusus*
                         </p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-1 fw-medium m-0">
-                          $8 USD/24H
+                          $10 USD/Mission
                         </p>
                       </div>
                     </div>
@@ -511,7 +516,7 @@ export default function JokiAccount() {
                           </g>
                         </svg>
                         <p className="color-palette-1 mb-24 mt-25">
-                          MGE
+                          WAR
                           <br />
                         </p>
                       </div>

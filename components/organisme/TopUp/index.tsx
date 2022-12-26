@@ -1,11 +1,10 @@
-import Image from "next/dist/client/image";
 import Illustration from "./Illustration";
 
 export default function TopUp() {
   return (
     <section className="header pt-50 pb-50">
       <div className="container-fluid">
-        <h2 className="text-4xl fw-bold color-palette-1 mb-30">Top Up Gem</h2>
+        <h2 className="text-4xl fw-bold color-palette-1 mb-30">Top Up</h2>
         <div className="row gap-lg-0 gap-5">
           <Illustration />
           <div className="col-lg-6 col-12 d-lg-block d-none">
@@ -15,9 +14,8 @@ export default function TopUp() {
                   <thead>
                     <tr className="color-palette-1">
                       <th className="text-start" scope="col">
-                        Game
+                        Category
                       </th>
-                      <th scope="col">Item</th>
                       <th scope="col">Price</th>
                       <th scope="col">Status</th>
                     </tr>
@@ -34,28 +32,20 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-1 m-0">
-                            Mobile Legends: The New Battle 2021
-                          </p>
-                          <p className="text-xs fw-normal text-start color-palette-2 m-0">
-                            Desktop
+                            Starlit Carol
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium color-palette-1 m-0">
-                          200 Gold
-                        </p>
-                      </td>
-                      <td>
                         <p className="fw-medium text-start color-palette-1 m-0">
-                          Rp 290.000
+                          $5 USD
                         </p>
                       </td>
                       <td>
                         <div>
-                          <span className="float-start icon-status pending"></span>
+                        <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
-                            Pending
+                            Available
                           </p>
                         </div>
                       </td>
@@ -71,28 +61,20 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-1 m-0">
-                            Call of Duty:Modern
-                          </p>
-                          <p className="text-xs fw-normal text-start color-palette-2 m-0">
-                            Desktop
+                            Supply Depot
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-1 m-0">
-                          550 Gold
-                        </p>
-                      </td>
-                      <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          Rp 740.000
+                          $5 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
-                            Success
+                            Available
                           </p>
                         </div>
                       </td>
@@ -108,28 +90,20 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-1 m-0">
-                            Clash of Clans
-                          </p>
-                          <p className="text-xs fw-normal text-start color-palette-2 m-0">
-                            Mobile
+                            Special Bundle Resource
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-1 m-0">
-                          100 Gold
-                        </p>
-                      </td>
-                      <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          Rp 120.000
+                          $5 - $100 USD
                         </p>
                       </td>
                       <td>
                         <div>
-                          <span className="float-start icon-status failed"></span>
+                        <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
-                            Failed
+                            Available
                           </p>
                         </div>
                       </td>
@@ -145,28 +119,49 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-1 m-0">
-                            The Royal Game
-                          </p>
-                          <p className="text-xs fw-normal text-start color-palette-2 m-0">
-                            Mobile
+                            Growth Fund
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-1 m-0">
-                          225 Gold
-                        </p>
-                      </td>
-                      <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          Rp 200.000
+                          $14.7 USD
                         </p>
                       </td>
                       <td>
                         <div>
-                          <span className="float-start icon-status pending"></span>
+                        <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
-                            Pending
+                            Available
+                          </p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr className="align-middle text-center">
+                      <th scope="row">
+                        <img
+                          className="float-start me-3 mb-lg-0 mb-3"
+                          src="/img/overview-4.jpg"
+                          width="80"
+                          height="60"
+                          alt=""
+                        />
+                        <div className="game-title-header">
+                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                            Gem Store
+                          </p>
+                        </div>
+                      </th>
+                      <td>
+                        <p className="fw-medium text-start color-palette-1 m-0">
+                          $1.2 - $100 USD
+                        </p>
+                      </td>
+                      <td>
+                        <div>
+                        <span className="float-start icon-status success"></span>
+                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                            Available
                           </p>
                         </div>
                       </td>
