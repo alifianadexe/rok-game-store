@@ -30,7 +30,7 @@ export default function JokiAccount() {
                         onClick={() => {
                           Swal.fire({
                             title: "Daily",
-                            text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products",
+                            html: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products",
                             width: 650,
                             padding: "3em",
                             color: "#716add",
@@ -148,7 +148,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Daily Plus",
-                          text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products + Clear Sunset Conyon Mission, Take Resource, Clear Barbarian, Donate Alliance, Use Speed Gathering Item and Power Up Book",
+                          html: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products + Clear Sunset Conyon Mission, Take Resource, Clear Barbarian, Donate Alliance, Use Speed Gathering Item and Power Up Book",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
@@ -245,7 +245,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Special",
-                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          html: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
@@ -366,7 +366,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Special",
-                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          html: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
@@ -486,7 +486,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Special",
-                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          html: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
@@ -606,7 +606,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Special",
-                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          html: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
