@@ -1,13 +1,15 @@
 export default function BotPage() {
   return (
-    <section className="header pt-50 pb-50">
+    <section id="bot" className="header pt-50 pb-50">
       <div className="container-fluid">
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">BOT Service</h2>
         <div className="pricing pricing--rabten" data-aos="fade-up">
           <div className="pricing__item">
             <div className="icon icon--home"></div>
             <h3 className="pricing__title">BOT Gather</h3>
-            <p className="pricing__sentence">Take Gather Resource (Wood, Corn, Stone)</p>
+            <p className="pricing__sentence">
+              Take Gather Resource (Wood, Corn, Stone)
+            </p>
             <div className="pricing__price">
               <span className="pricing__anim pricing__anim--1">
                 <span className="pricing__currency">$</span>10
@@ -17,7 +19,9 @@ export default function BotPage() {
               </span>
             </div>
             <ul className="pricing__feature-list">
-              <li className="pricing__feature">10M Wood, 10M Corn, 10M Stone</li>
+              <li className="pricing__feature">
+                10M Wood, 10M Corn, 10M Stone
+              </li>
               <li className="pricing__feature">Fast, Clear, and Anti-BAN</li>
               <li className="pricing__feature">24 Hours Online</li>
             </ul>

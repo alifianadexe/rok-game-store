@@ -251,3 +251,28 @@ footer ul li a:hover{
 
  }
 
+.hover-2 {
+    cursor: pointer;
+}
+
+ .hover-2 p {
+    padding-left: 25%;
+    padding-right: 25%;
+    --h: 1.2em;   /* the height */
+    linea-height: var(--h);
+    color: #0000;
+    overflow: hidden;
+    text-shadow: 
+      0 var(--_t,var(--h)) #fff,
+      0 0 var(--_c,#000);
+    background: 
+      linear-gradient(#f7a24e 0 0) 
+      bottom/100% var(--_d, 0) no-repeat;
+    transition: 0.3s;
+  }
+
+  .hover-2:hover p {
+    --_d: 100%;
+    --_t: 0;
+    --_c: #0000;
+  }
