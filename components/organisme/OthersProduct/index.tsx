@@ -9,13 +9,11 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-93.jpg"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
@@ -28,13 +26,11 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-90.png"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
@@ -47,13 +43,11 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-91.jpg"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10"> Unbind Account</p>
@@ -63,29 +57,25 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-92.jpg"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">Change Account</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">Release Account</p>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-94.jpg"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">Passport Item</p>
@@ -95,13 +85,11 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
-                <div className="cropped">
                   <img
-                    src="/img/Thumbnail-3.png"
+                    src="/img/Thumbnail-93.jpg"
                     className="img-fluid"
                     alt=""
                   />
-                </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10"> </p>

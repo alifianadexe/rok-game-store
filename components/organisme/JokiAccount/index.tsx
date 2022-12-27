@@ -130,7 +130,10 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">Daily</p>
+                        <p className="color-palette-1 mb-24 mt-25"><b>Daily</b>
+                        <p align="left"> Claim VIP<br/> Open Traven<br/> Material Products<br/> Train and Heal Troopers<br/> 
+                        Upgrade Building and Research <br/> Buy Courier Station Items</p>
+                        </p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
@@ -226,7 +229,10 @@ export default function JokiAccount() {
                           </g>
                         </svg>
                         <p className="color-palette-1  mb-24 mt-25">
-                          Daily Plus
+                          <b>Daily Plus</b><br/>
+                          <p align="left"> Include Daily Service + <br/>
+                          Clear Sunset Conyon Mission<br/> Gather Resource<br/> Clear Barbarian<br/> Donate Alliance, <br/>
+                          Use Speed Gathering Item<br/>Use Power Up Book </p>
                         </p>
                       </div>
                       <div>
