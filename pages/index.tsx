@@ -26,8 +26,8 @@ export default function Home() {
       <TopUp />
       <JokiAccount />
       <BotPage />
-      <OthersProduct />
       <FeaturedGame />
+      <OthersProduct />
       <Reached />
       <Testimonial />
       <Story />

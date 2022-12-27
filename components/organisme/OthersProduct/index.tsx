@@ -1,6 +1,6 @@
 export default function OthersProduct() {
   return (
-    <section className="checkout pt-50 pb-50">
+    <section id="others" className="checkout pt-50 pb-50">
       <div className="container-fluid">
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">
           Others Products
@@ -56,7 +56,10 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10"> Unbind Account</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">
+                  {" "}
+                  Unbind Account
+                </p>
               </div>
             </div>
           </div>
@@ -72,7 +75,9 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">Change Account</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">
+                  Change Account
+                </p>
               </div>
             </div>
           </div>
@@ -88,7 +93,9 @@ export default function OthersProduct() {
                 </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">Passport Item</p>
+                <p className="fw-bold text-xl color-palette-1 mb-10">
+                  Passport Item
+                </p>
               </div>
             </div>
           </div>

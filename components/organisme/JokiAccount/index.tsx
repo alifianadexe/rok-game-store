@@ -15,22 +15,22 @@ export default function JokiAccount() {
   const toggleShow = () => setOptSmModal(!optSmModal);
 
   return (
-    <section className="header pt-50 pb-50">
+    <section id="joki" className="header  pt-50 pb-50">
       <div className="container-fluid">
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">Joki Account</h2>
         <main className="main-wrapper">
           <div className="ps-lg-0">
-            <div className="top-up-categories mb-30">
+            <div className="top-up-categories mt-60 mb-30">
               <div className="main-content text-center">
                 <div className="row gap-lg-0 gap-5" data-aos="fade-up">
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
                     <div className="categories-card">
                       <div
-                        className="align-items-center mb-24"
+                        className="align-items-center mb-24 hover-2"
                         onClick={() => {
                           Swal.fire({
                             title: "Daily",
-                            text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products" ,
+                            text: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products",
                             width: 650,
                             padding: "3em",
                             color: "#716add",
@@ -130,7 +130,9 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">Daily</p>
+                        <p className="color-palette-1 mb-24 mt-25 text-2xl">
+                          Daily
+                        </p>
                       </div>
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
@@ -154,7 +156,7 @@ export default function JokiAccount() {
                         });
                       }}
                     >
-                      <div className="align-items-center mb-24">
+                      <div className="align-items-center mb-24  hover-2">
                         <svg
                           width="60"
                           height="60"
@@ -225,12 +227,12 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1  mb-24 mt-25">
+                        <p className="color-palette-1  mb-24 mt-25 text-2xl">
                           Daily Plus
                         </p>
                       </div>
                       <div>
-                        <p className="text-sm color-palette-2 mb-1">Price</p>
+                        <p className="text-sm color-palette-2 mb-1 ">Price</p>
                         <p className="text-2xl color-palette-1 fw-medium m-0">
                           $32 USD/Month
                         </p>
@@ -251,7 +253,7 @@ export default function JokiAccount() {
                         });
                       }}
                     >
-                      <div className="align-items-center mb-24">
+                      <div className="align-items-center mb-24 hover-2">
                         <svg
                           width="60"
                           height="60"
@@ -344,7 +346,7 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-0  mb-24 mt-25 ">
+                        <p className="color-palette-1 mb-0  mb-24 mt-25 text-2xl">
                           Special
                         </p>
                       </div>
@@ -359,8 +361,20 @@ export default function JokiAccount() {
                 </div>
                 <div className="row gap-lg-0 gap-5 mt-50" data-aos="fade-up">
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
-                    <div className="categories-card">
-                      <div className="align-items-center mb-24">
+                    <div
+                      className="categories-card"
+                      onClick={() => {
+                        Swal.fire({
+                          title: "Special",
+                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          width: 650,
+                          padding: "3em",
+                          color: "#716add",
+                          background: "#fff",
+                        });
+                      }}
+                    >
+                      <div className="align-items-center mb-24 hover-2">
                         <svg
                           width="60"
                           height="60"
@@ -453,13 +467,13 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">
+                        <p className="color-palette-1 mb-24 mt-25 text-2xl">
                           MGE
                           <br />
                         </p>
                       </div>
                       <div>
-                        <p className="text-sm color-palette-2 mb-1">Price</p>
+                        <p className="text-sm color-palette-2 mb-1 ">Price</p>
                         <p className="text-2xl color-palette-1 fw-medium m-0">
                           $8 USD/24H
                         </p>
@@ -467,8 +481,20 @@ export default function JokiAccount() {
                     </div>
                   </div>
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
-                    <div className="categories-card">
-                      <div className="align-items-center mb-24">
+                    <div
+                      className="categories-card"
+                      onClick={() => {
+                        Swal.fire({
+                          title: "Special",
+                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          width: 650,
+                          padding: "3em",
+                          color: "#716add",
+                          background: "#fff",
+                        });
+                      }}
+                    >
+                      <div className="align-items-center mb-24 hover-2">
                         <svg
                           width="60"
                           height="60"
@@ -561,7 +587,7 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">
+                        <p className="color-palette-1 mb-24 mt-25 text-2xl">
                           WAR
                           <br />
                         </p>
@@ -575,8 +601,20 @@ export default function JokiAccount() {
                     </div>
                   </div>
                   <div className="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
-                    <div className="categories-card">
-                      <div className="align-items-center mb-24">
+                    <div
+                      className="categories-card"
+                      onClick={() => {
+                        Swal.fire({
+                          title: "Special",
+                          text: "AOO, Hunt Babarkan, Marauder, Clear Tribal and Cave",
+                          width: 650,
+                          padding: "3em",
+                          color: "#716add",
+                          background: "#fff",
+                        });
+                      }}
+                    >
+                      <div className="align-items-center mb-24 hover-2">
                         <svg
                           width="60"
                           height="60"
@@ -669,7 +707,7 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-                        <p className="color-palette-1 mb-24 mt-25">
+                        <p className="color-palette-1 mb-24 mt-25 text-2xl">
                           GB Kill
                           <br />
                         </p>

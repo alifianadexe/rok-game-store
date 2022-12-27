@@ -2,7 +2,7 @@ import Illustration from "./Illustration";
 
 export default function TopUp() {
   return (
-    <section className="header pt-50 pb-50">
+    <section id="topup" className="header pt-50 pb-50">
       <div className="container-fluid">
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">Top Up</h2>
         <div className="row gap-lg-0 gap-5">
@@ -43,7 +43,7 @@ export default function TopUp() {
                       </td>
                       <td>
                         <div>
-                        <span className="float-start icon-status success"></span>
+                          <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
                             Available
                           </p>
@@ -101,7 +101,7 @@ export default function TopUp() {
                       </td>
                       <td>
                         <div>
-                        <span className="float-start icon-status success"></span>
+                          <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
                             Available
                           </p>
@@ -130,7 +130,7 @@ export default function TopUp() {
                       </td>
                       <td>
                         <div>
-                        <span className="float-start icon-status success"></span>
+                          <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
                             Available
                           </p>
@@ -159,7 +159,7 @@ export default function TopUp() {
                       </td>
                       <td>
                         <div>
-                        <span className="float-start icon-status success"></span>
+                          <span className="float-start icon-status success"></span>
                           <p className="fw-medium text-start color-palette-1 m-0 position-relative">
                             Available
                           </p>

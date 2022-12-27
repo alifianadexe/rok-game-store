@@ -2,7 +2,7 @@ import GameItems from "../molekul/GameItems/index";
 
 export default function FeaturedGame() {
   return (
-    <section className="featured-game pt-50 pb-50">
+    <section id="convert" className="featured-game pt-50 pb-50">
       <div className="container-fluid">
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">
           Convert Payment
