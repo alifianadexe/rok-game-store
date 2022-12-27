@@ -8,7 +8,7 @@ export default function BotPage() {
             <div className="icon icon--home"></div>
             <h3 className="pricing__title">BOT Gather</h3>
             <p className="pricing__sentence">
-              Take Gather Resource (Wood, Corn, Stone)
+              Take Gather Resource (Wood, Corn, Stone, Gold)
             </p>
             <div className="pricing__price">
               <span className="pricing__anim pricing__anim--1">
@@ -20,7 +20,7 @@ export default function BotPage() {
             </div>
             <ul className="pricing__feature-list">
               <li className="pricing__feature">
-                10M Wood, 10M Corn, 10M Stone
+                10M Wood, 10M Corn <br/> 10M Stone, 5M Gold
               </li>
               <li className="pricing__feature">Fast, Clear, and Anti-BAN</li>
               <li className="pricing__feature">24 Hours Online</li>

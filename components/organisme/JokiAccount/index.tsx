@@ -30,7 +30,7 @@ export default function JokiAccount() {
                         onClick={() => {
                           Swal.fire({
                             title: "Daily",
-                            html: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products",
+                            html: "Claim VIP<br/> Open Traven<br/> Material Products<br/> Train and Heal Troopers<br/> Upgrade Building and Research <br/> Buy Courier Station Items",
                             width: 650,
                             padding: "3em",
                             color: "#716add",
@@ -130,14 +130,8 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-<<<<<<< HEAD
-                        <p className="color-palette-1 mb-24 mt-25"><b>Daily</b>
-                        <p align="left"> Claim VIP<br/> Open Traven<br/> Material Products<br/> Train and Heal Troopers<br/> 
-                        Upgrade Building and Research <br/> Buy Courier Station Items</p>
-=======
-                        <p className="color-palette-1 mb-24 mt-25 text-2xl">
+                        <p className="color-palette-1  mb-24 mt-25 text-2xl">
                           Daily
->>>>>>> a61481657755caf1eb04a1a69c554a118f11de6d
                         </p>
                       </div>
                       <div>
@@ -154,7 +148,7 @@ export default function JokiAccount() {
                       onClick={() => {
                         Swal.fire({
                           title: "Daily Plus",
-                          html: "Heals Troopers, Open Traven, Claim VIP, Upgrade Building and Research, Train Troops, Material Products + Clear Sunset Conyon Mission, Take Resource, Clear Barbarian, Donate Alliance, Use Speed Gathering Item and Power Up Book",
+                          html: "Include Daily Service + <br/> Clear Sunset Conyon Mission<br/> Gather Resource<br/> Clear Barbarian<br/> Donate Alliance, <br/>Use Speed Gathering Item<br/>Use Power Up Book",
                           width: 650,
                           padding: "3em",
                           color: "#716add",
@@ -233,16 +227,8 @@ export default function JokiAccount() {
                             />
                           </g>
                         </svg>
-<<<<<<< HEAD
-                        <p className="color-palette-1  mb-24 mt-25">
-                          <b>Daily Plus</b><br/>
-                          <p align="left"> Include Daily Service + <br/>
-                          Clear Sunset Conyon Mission<br/> Gather Resource<br/> Clear Barbarian<br/> Donate Alliance, <br/>
-                          Use Speed Gathering Item<br/>Use Power Up Book </p>
-=======
                         <p className="color-palette-1  mb-24 mt-25 text-2xl">
                           Daily Plus
->>>>>>> a61481657755caf1eb04a1a69c554a118f11de6d
                         </p>
                       </div>
                       <div>
