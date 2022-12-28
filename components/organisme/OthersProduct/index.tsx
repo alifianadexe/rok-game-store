@@ -9,11 +9,13 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
+              <div className="cropped">
                   <img
-                    src="/img/Thumbnail-98.png"
+                    src="/img/Thumbnail-97.png"
                     className="img-fluid"
                     alt=""
                   />
+              </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
@@ -45,11 +47,13 @@ export default function OthersProduct() {
           <div className="col-lg-4 col-6 ">
             <div className="game-checkout d-flex flex-row align-items-center pt-md-50 pb-md-50 pt-30 pb-30">
               <div className="pe-4">
+              <div className="cropped">
                   <img
-                    src="/img/Thumbnail-91.jpg"
+                    src="/img/Thumbnail-91.png"
                     className="img-fluid"
                     alt=""
                   />
+              </div>
               </div>
               <div>
                 <p className="fw-bold text-xl color-palette-1 mb-10">
@@ -64,7 +68,7 @@ export default function OthersProduct() {
               <div className="pe-4">
               <div className="cropped">
                   <img
-                    src="/img/Thumbnail-92.jpg"
+                    src="/img/Thumbnail-93.jpg"
                     className="img-fluid"
                     alt=""
                   />
@@ -80,7 +84,7 @@ export default function OthersProduct() {
               <div className="pe-4">
               <div className="cropped">
                   <img
-                    src="/img/Thumbnail-94.jpg"
+                    src="/img/Thumbnail-94.png"
                     className="img-fluid"
                     alt=""
                   />
