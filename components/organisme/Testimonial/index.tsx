@@ -12,11 +12,9 @@ export default function Testimonial() {
     <MDBContainer className="py-5" data-aos="fade-up">
       <MDBRow className="d-flex justify-content-center">
         <MDBCol md="10" xl="8" className="text-center">
-          <h3 className="mb-4">Testimonials</h3>
-          <p className="mb-4 pb-2 mb-md-5 pb-md-0">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
-            error amet numquam iure provident voluptate esse quasi, veritatis
-            totam voluptas nostrum quisquam eum porro a pariatur veniam.
+          <h3 className="mb-4 color-palette-1">Testimonials</h3>
+          <p className="mb-4 pb-2 mb-md-5 pb-md-0 color-palette-10">
+          We provide services and transactions in the game Rise Of Kingdom.
           </p>
         </MDBCol>
       </MDBRow>
@@ -30,12 +28,12 @@ export default function Testimonial() {
               height="150"
             />
           </div>
-          <h5 className="mb-3">Maria Smantha</h5>
+          <h5 className="mb-3 color-palette-10">Maria Smantha</h5>
           <h6 className="text-primary mb-3">Web Developer</h6>
-          <p className="px-xl-3">
+          <p className="px-xl-3 color-palette-6">
             <MDBIcon fas icon="quote-left" className="pe-2" />
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos
-            id officiis hic tenetur quae quaerat ad velit ab hic tenetur.
+            I top up here because it's cheaper and faster than others, the service is also widely 
+            available, starting from bundles, resources, jockeys, and bots.
           </p>
           <MDBTypography
             listUnStyled
@@ -72,9 +70,9 @@ export default function Testimonial() {
               height="150"
             />
           </div>
-          <h5 className="mb-3">Lisa Cudrow</h5>
+          <h5 className="mb-3 color-palette-10">Lisa Cudrow</h5>
           <h6 className="text-primary mb-3">Graphic Designer</h6>
-          <p className="px-xl-3">
+          <p className="px-xl-3 color-palette-6">
             <MDBIcon fas icon="quote-left" className="pe-2" />
             Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
             suscipit laboriosam, nisi ut aliquid commodi.
@@ -109,9 +107,9 @@ export default function Testimonial() {
               height="150"
             />
           </div>
-          <h5 className="mb-3">John Smith</h5>
+          <h5 className="mb-3 color-palette-10">John Smith</h5>
           <h6 className="text-primary mb-3">Marketing Specialist</h6>
-          <p className="px-xl-3">
+          <p className="px-xl-3 color-palette-6">
             <MDBIcon fas icon="quote-left" className="pe-2" />
             At vero eos et accusamus et iusto odio dignissimos ducimus qui
             blanditiis praesentium voluptatum deleniti atque corrupti.

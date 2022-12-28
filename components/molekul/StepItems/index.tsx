@@ -12,7 +12,7 @@ export default function StepItems(props: StepProps) {
             <div className="card feature-card border-0">
                 <img src={`/icon/${icon}.svg`} width={80} height={80} className="mb-30" alt="icon step" />
                 <p className="fw-semibold text-2xl mb-2 color-palette-1">{title}</p>
-                <p className="text-lg color-palette-1 mb-0">{desc1}<br/>
+                <p className="text-lg color-palette-6 mb-0">{desc1}<br/>
                     {desc2}</p>
             </div>
         </div>

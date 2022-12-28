@@ -31,20 +31,20 @@ export default function TopUp() {
                           alt=""
                         />
                         <div className="game-title-header">
-                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
                             Starlit Carol
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          $5 USD
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                        <sup>$</sup>5 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
-                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
                             Available
                           </p>
                         </div>
@@ -60,20 +60,20 @@ export default function TopUp() {
                           alt=""
                         />
                         <div className="game-title-header">
-                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
                             Supply Depot
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          $5 USD
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                        <sup>$</sup>5 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
-                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
                             Available
                           </p>
                         </div>
@@ -89,20 +89,20 @@ export default function TopUp() {
                           alt=""
                         />
                         <div className="game-title-header">
-                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
                             Special Bundle Resource
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          $5 - $100 USD
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                        <sup>$</sup>5 - <sup>$</sup>100 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
-                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
                             Available
                           </p>
                         </div>
@@ -118,20 +118,20 @@ export default function TopUp() {
                           alt=""
                         />
                         <div className="game-title-header">
-                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
                             Growth Fund
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          $14.7 USD
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                        <sup>$</sup>14.7 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
-                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
                             Available
                           </p>
                         </div>
@@ -147,20 +147,20 @@ export default function TopUp() {
                           alt=""
                         />
                         <div className="game-title-header">
-                          <p className="game-title fw-medium text-start color-palette-1 m-0">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
                             Gem Store
                           </p>
                         </div>
                       </th>
                       <td>
-                        <p className="fw-medium text-start color-palette-1 m-0">
-                          $1.2 - $100 USD
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                          <sup>$</sup>10 USD
                         </p>
                       </td>
                       <td>
                         <div>
                           <span className="float-start icon-status success"></span>
-                          <p className="fw-medium text-start color-palette-1 m-0 position-relative">
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
                             Available
                           </p>
                         </div>

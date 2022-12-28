@@ -9,7 +9,7 @@
 }
 
 .navbar-light .navbar-nav .nav-link{
-    color: #201b17;
+    color: #585755;
 }
 
 .navbar-light .btn-sign-in{
@@ -260,7 +260,7 @@ footer ul li a:hover{
     padding-right: 25%;
     --h: 1.2em;   /* the height */
     linea-height: var(--h);
-    color: #0000;
+    color: #585755;
     overflow: hidden;
     text-shadow: 
       0 var(--_t,var(--h)) #fff,
@@ -274,5 +274,6 @@ footer ul li a:hover{
   .hover-2:hover p {
     --_d: 100%;
     --_t: 0;
-    --_c: #0000;
+    --_c: #fff;
+    color: #fff;
   }

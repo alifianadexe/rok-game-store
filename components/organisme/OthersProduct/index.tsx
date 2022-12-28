@@ -18,8 +18,8 @@ export default function OthersProduct() {
               </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Buy Sell:
+                <p className="fw-bold text-xl color-palette-9 mb-10">
+                  Buy and Sell:
                   <br/>Resources
                 </p>
               </div>
@@ -37,9 +37,9 @@ export default function OthersProduct() {
               </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Buy:
-                  <br/>Account
+                <p className="fw-bold text-xl color-palette-9 mb-10">
+                  Buy: 
+                  <br />ROK Account
                 </p>
               </div>
             </div>
@@ -56,9 +56,9 @@ export default function OthersProduct() {
               </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  {" "}
-                  Unbind Account
+                <p className="fw-bold text-xl color-palette-9 mb-10">
+                  Unbind
+                  <br />Account
                 </p>
               </div>
             </div>
@@ -75,7 +75,9 @@ export default function OthersProduct() {
               </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">Release Account</p>
+                <p className="fw-bold text-xl color-palette-9 mb-10">
+                  Release
+                  <br />Account</p>
               </div>
             </div>
           </div>
@@ -91,8 +93,9 @@ export default function OthersProduct() {
               </div>
               </div>
               <div>
-                <p className="fw-bold text-xl color-palette-1 mb-10">
-                  Passport Item
+                <p className="fw-bold text-xl color-palette-9 mb-10">
+                  Passport
+                  <br />Item
                 </p>
               </div>
             </div>
