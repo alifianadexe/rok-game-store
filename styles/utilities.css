@@ -40,6 +40,11 @@
 }
 /*  */
 
+
+.bg-div-1 {
+    background-color: #39d695;
+}
+
 /* Padding */
 .pt-40{
     padding-top: 2.5rem;

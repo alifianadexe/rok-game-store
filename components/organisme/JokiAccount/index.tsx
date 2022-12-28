@@ -18,7 +18,9 @@ export default function JokiAccount() {
   return (
     <section id="joki" className="header  pt-50 pb-50">
       <div className="container-fluid">
-        <h2 className="text-4xl fw-bold color-palette-1 mb-30">Joki Account</h2>
+        <h2 className="text-4xl fw-bold color-palette-1 mb-30">
+          Jockey Account
+        </h2>
         <main className="main-wrapper">
           <div className="ps-lg-0">
             <div className="top-up-categories mt-60 mb-30">
@@ -47,7 +49,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>9.6 USD/Month
+                          <sup>$</sup>9.6 USD/Month
                         </p>
                       </div>
                     </div>
@@ -67,7 +69,7 @@ export default function JokiAccount() {
                       }}
                     >
                       <div className="align-items-center mb-24  hover-2">
-                      <Image src="/icon/24Hplus.png" height={60} width={60} />
+                        <Image src="/icon/24Hplus.png" height={60} width={60} />
                         <p className="color-palette-6  mb-24 mt-25 text-2xl">
                           Daily Plus
                         </p>
@@ -75,7 +77,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1 ">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>32 USD/Month
+                          <sup>$</sup>32 USD/Month
                         </p>
                       </div>
                     </div>
@@ -194,7 +196,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>10 USD/Mission
+                          <sup>$</sup>10 USD/Mission
                         </p>
                       </div>
                     </div>
@@ -316,7 +318,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1 ">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>8 USD/24H
+                          <sup>$</sup>8 USD/24H
                         </p>
                       </div>
                     </div>
@@ -436,7 +438,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>8 USD/24H
+                          <sup>$</sup>8 USD/24H
                         </p>
                       </div>
                     </div>
@@ -556,7 +558,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                        <sup>$</sup>8 USD/24H
+                          <sup>$</sup>8 USD/24H
                         </p>
                       </div>
                     </div>

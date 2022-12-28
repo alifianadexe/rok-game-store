@@ -15,10 +15,14 @@ export default function Navbar() {
             <ul className="navbar-nav ms-auto text-lg gap-lg-0 gap-2">
               <Menu title="Home" href="/" />
               <Menu title="Top Up" href="/#topup" />
-              <Menu title="Joki" href="/#joki" />
+              <Menu title="Jockey" href="/#joki" />
               <Menu title="Bot" href="/#bot" />
               <Menu title="Convert" href="/#convert" />
               <Menu title="Others" href="/#others" />
+              <Menu
+                title="Contact"
+                href="https://api.whatsapp.com/send?phone=628981234567&text=Halo%20mau%20order%20gan"
+              />
             </ul>
           </div>
         </div>

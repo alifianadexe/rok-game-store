@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { MDBIcon } from "mdb-react-ui-kit";
 
 export default function Story() {
@@ -29,20 +31,14 @@ export default function Story() {
                 membantu players menjadi
                 <br className="d-sm-block d-none" /> pemenang sejati
               </p>
-              <div className="d-md-block d-flex flex-column w-100">
+              <div className="d-md-block d-flex flex-column w-100 ">
                 <a
-                  className="btn btn-read text-lg rounded-pill"
+                  className="btn btn-read text-lg rounded-pill bg-div-1"
                   target="_blank"
                   href="https://api.whatsapp.com/send?phone=628981234567&text=Halo%20mau%20order%20gan"
                   role="button"
                 >
-                  <MDBIcon
-                    className="ms-1 "
-                    icon="camera-retro"
-                    fixed
-                    iconType="solid"
-                  />
-                  Contact
+                  <FontAwesomeIcon size="1x" icon={faPhone} /> Contact
                 </a>
               </div>
             </div>
