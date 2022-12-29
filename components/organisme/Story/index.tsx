@@ -38,7 +38,7 @@ export default function Story() {
                   href="https://api.whatsapp.com/send?phone=628981234567&text=Halo%20mau%20order%20gan"
                   role="button"
                 >
-                  <FontAwesomeIcon size="1x" icon={faPhone} /> Contact
+                  <FontAwesomeIcon icon={faPhone} size="sm" /> Contact
                 </a>
               </div>
             </div>

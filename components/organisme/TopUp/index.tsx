@@ -7,7 +7,7 @@ export default function TopUp() {
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">Top Up</h2>
         <div className="row gap-lg-0 gap-5">
           <Illustration />
-          <div className="col-lg-6 col-12 d-lg-block d-none">
+          <div className="col-lg-6 col-sm-12 d-lg-block">
             <div className="latest-transaction">
               <div className="main-content main-content-table overflow-auto">
                 <table className="table table-borderless">
@@ -38,7 +38,7 @@ export default function TopUp() {
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                        <sup>$</sup>5 USD
+                          <sup>$</sup>5 USD
                         </p>
                       </td>
                       <td>
@@ -67,7 +67,7 @@ export default function TopUp() {
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                        <sup>$</sup>5 USD
+                          <sup>$</sup>5 USD
                         </p>
                       </td>
                       <td>
@@ -96,7 +96,7 @@ export default function TopUp() {
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                        <sup>$</sup>5 - <sup>$</sup>100 USD
+                          <sup>$</sup>5 - <sup>$</sup>100 USD
                         </p>
                       </td>
                       <td>
@@ -125,7 +125,7 @@ export default function TopUp() {
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                        <sup>$</sup>14.7 USD
+                          <sup>$</sup>14.7 USD
                         </p>
                       </td>
                       <td>
