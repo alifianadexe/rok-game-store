@@ -12,7 +12,7 @@ export default function BotPage() {
         <h2 className="text-4xl fw-bold color-palette-1 mb-30">Bot Service</h2>
         <div className="pricing pricing--rabten" data-aos="fade-up">
           <div className="pricing__item">
-            <FontAwesomeIcon size="sm" icon={faRobot} />
+            <FontAwesomeIcon size="2x" icon={faRobot} />
             <h3 className="pricing__title color-palette-9">BOT Resources</h3>
             <p className="pricing__sentence">
               Gather Resource (Wood, Corn, Stone, Gold)
@@ -34,7 +34,7 @@ export default function BotPage() {
             </ul>
           </div>
           <div className="pricing__item">
-            <FontAwesomeIcon size="sm" icon={faGears} />
+            <FontAwesomeIcon size="2x" icon={faGears} />
             <h3 className="pricing__title color-palette-9">BOT Gems</h3>
             <p className="pricing__sentence">
               Take Gems of Your Request
@@ -56,7 +56,7 @@ export default function BotPage() {
             </ul>
           </div>
           <div className="pricing__item">
-            <FontAwesomeIcon size="sm" icon={faFileSignature} />
+            <FontAwesomeIcon size="2x" icon={faFileSignature} />
             <h3 className="pricing__title color-palette-9">BOT Title Giver</h3>
             <p className="pricing__sentence">
               Give Title What You Want
