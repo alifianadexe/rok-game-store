@@ -191,11 +191,7 @@ export default function JokiAccount() {
                       }}
                     >
                       <div className="align-items-center mb-24 hover-2">
-                        <FontAwesomeIcon
-                          size="2x"
-                          icon={faCutlery}
-                          style={{ color: "#FFA30F" }}
-                        />
+                        <Image src="/icon/gbkill.svg" height={60} width={60} />
                         <p className="color-palette-6 mb-24 mt-25 text-2xl">
                           GB Kill
                           <br />

@@ -4,6 +4,7 @@ import {
   faGears,
   faFileSignature,
 } from "@fortawesome/free-solid-svg-icons";
+import Image from "next/dist/client/image";
 
 export default function BotPage() {
   return (
@@ -34,7 +35,7 @@ export default function BotPage() {
             </ul>
           </div>
           <div className="pricing__item">
-            <FontAwesomeIcon size="2x" icon={faGears} />
+            <Image src="/icon/gems.svg" height={40} width={32} />
             <h3 className="pricing__title color-palette-9">BOT Gems</h3>
             <p className="pricing__sentence">
               Take Gems of Your Request
