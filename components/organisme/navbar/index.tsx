@@ -8,7 +8,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-light bg-navbar pt-lg-30 pb-lg-30 pt-30 pb-20">
         <div className="container-fluid">
           <a className="navbar-brand" href="/#">
-            <Image src="/icon/rise-of-kingdoms.png" width={90} height={60} />
+            <Image src="/img/logo.png" width={60} height={60} />
           </a>
           <ToggleMenu />
           <div className="collapse navbar-collapse" id="navbarNav">
