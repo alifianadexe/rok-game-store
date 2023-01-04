@@ -25,7 +25,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-1.png"
+                          src="/img/rok1.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -54,7 +54,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-2.png"
+                          src="/img/rok2.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -83,7 +83,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-3.png"
+                          src="/img/rok3.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -112,7 +112,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-4.png"
+                          src="/img/rok4.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -141,7 +141,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-4.jpg"
+                          src="/img/rok6.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -170,7 +170,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-4.jpg"
+                          src="/img/rok7.1.png"
                           width="80"
                           height="60"
                           alt=""
@@ -199,7 +199,7 @@ export default function TopUp() {
                       <th scope="row">
                         <img
                           className="float-start me-3 mb-lg-0 mb-3"
-                          src="/img/overview-4.jpg"
+                          src="/img/rok8.1.png"
                           width="80"
                           height="60"
                           alt=""
