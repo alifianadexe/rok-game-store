@@ -19,7 +19,7 @@ export default function Footer() {
               <div className="row gap-sm-0">
                 <div className="col-md-4 col-12 mt-lg-0 mt-md-0 mt-25">
                   <p className="text-lg fw-semibold color-palette-1 mb-12">
-                    Connect
+                    Connect Us
                   </p>
                   <ul className="list-unstyled">
                     <li className="mb-6">
@@ -27,7 +27,7 @@ export default function Footer() {
                         href="mailto: hi@store.gg"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        WhatsApp:
+                        WhatsApp: 081575127090
                       </a>
                     </li>
                     <li className="mb-6">
@@ -35,7 +35,7 @@ export default function Footer() {
                         href="mailto: team@store.gg"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        Instagram:
+                        Instagram: galeritopupindonesia
                       </a>
                     </li>
                     <li className="mb-6">
@@ -44,7 +44,7 @@ export default function Footer() {
                                             Jakarta Selatan"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        Telegram:
+                        Telegram: 081575127090
                       </a>
                     </li>
                     <li className="mb-6">
@@ -52,7 +52,7 @@ export default function Footer() {
                         href="tel: 02111229090"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        Discord:
+                        Discord: Lemon ROK #7983
                       </a>
                     </li>
                   </ul>

@@ -261,7 +261,7 @@ footer ul li a:hover{
     padding-left: 25%;
     padding-right: 25%;
     --h: 1.2em;   /* the height */
-    linea-height: var(--h);
+    line-height: var(--h);
     color: #585755;
     overflow: hidden;
     text-shadow: 

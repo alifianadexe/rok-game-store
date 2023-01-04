@@ -32,13 +32,13 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-9 m-0">
-                            Starlit Carol
+                            New World Bundle
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                          <sup>$</sup>5 USD
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
                         </p>
                       </td>
                       <td>
@@ -61,13 +61,13 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-9 m-0">
-                            Supply Depot
+                            Call of The Ancients Bundle
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                          <sup>$</sup>5 USD
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
                         </p>
                       </td>
                       <td>
@@ -90,13 +90,13 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-9 m-0">
-                            Special Bundle Resource
+                            City of Hope Bundle
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                          <sup>$</sup>5 - <sup>$</sup>100 USD
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
                         </p>
                       </td>
                       <td>
@@ -119,13 +119,13 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-9 m-0">
-                            Growth Fund
+                            Fountain Wisdom Bundle
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                          <sup>$</sup>14.7 USD
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
                         </p>
                       </td>
                       <td>
@@ -148,13 +148,71 @@ export default function TopUp() {
                         />
                         <div className="game-title-header">
                           <p className="game-title fw-medium text-start color-palette-9 m-0">
-                            Gem Store
+                            Living Legend Bundle
                           </p>
                         </div>
                       </th>
                       <td>
                         <p className="fw-medium text-start color-palette-7 m-0">
-                          <sup>$</sup>10 USD
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
+                        </p>
+                      </td>
+                      <td>
+                        <div>
+                          <span className="float-start icon-status success"></span>
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
+                            Available
+                          </p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr className="align-middle text-center">
+                      <th scope="row">
+                        <img
+                          className="float-start me-3 mb-lg-0 mb-3"
+                          src="/img/overview-4.jpg"
+                          width="80"
+                          height="60"
+                          alt=""
+                        />
+                        <div className="game-title-header">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
+                            War Machine Bundle
+                          </p>
+                        </div>
+                      </th>
+                      <td>
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
+                        </p>
+                      </td>
+                      <td>
+                        <div>
+                          <span className="float-start icon-status success"></span>
+                          <p className="fw-medium text-start color-palette-8 m-0 position-relative">
+                            Available
+                          </p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr className="align-middle text-center">
+                      <th scope="row">
+                        <img
+                          className="float-start me-3 mb-lg-0 mb-3"
+                          src="/img/overview-4.jpg"
+                          width="80"
+                          height="60"
+                          alt=""
+                        />
+                        <div className="game-title-header">
+                          <p className="game-title fw-medium text-start color-palette-9 m-0">
+                            Kings Coronation Bundle
+                          </p>
+                        </div>
+                      </th>
+                      <td>
+                        <p className="fw-medium text-start color-palette-7 m-0">
+                          <sup>$</sup>3.85 - <sup>$</sup>77 USD
                         </p>
                       </td>
                       <td>
