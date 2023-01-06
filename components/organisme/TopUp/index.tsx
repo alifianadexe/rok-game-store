@@ -4,47 +4,54 @@ import React from "react";
 const dataRow = [
   [
     {
-      title: "Nama Bundle",
+      title: "New World Bundle",
       image: "/img/rok1.1.png",
-      price: "$90",
-      price2: "$91",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
     {
-      title: "Nama Bundle",
-      image: "/gamber.jpg",
-      price: "$90",
-      price2: "$91",
+      title: "Call of The Ancients Bundle",
+      image: "/img/rok2.1.png",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
     {
-      title: "Nama Bundle",
-      image: "/gamber.jpg",
-      price: "$90",
-      price2: "$91",
+      title: "City of Hope Bundle",
+      image: "/img/rok3.1.png",
+      price: "3.85",
+      price2: "77",
+      status: "available",
+    },
+    {
+      title: "Fountain Wisdom Bundle",
+      image: "/img/rok4.1.png",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
   ],
   [
     {
-      title: "Nama Bundle",
-      image: "/gamber.jpg",
-      price: "$90",
-      price2: "$91",
+      title: "Living Legend Bundle",
+      image: "/img/rok6.1.png",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
     {
-      title: "Nama Bundle",
-      image: "/gamber.jpg",
-      price: "$90",
-      price2: "$91",
+      title: "War Machine Bundle",
+      image: "/img/rok7.1.png",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
     {
-      title: "Nama Bundle",
-      image: "/gamber.jpg",
-      price: "$90",
-      price2: "$91",
+      title: "Kings Coronation Bundle",
+      image: "/img/rok8.1.png",
+      price: "3.85",
+      price2: "77",
       status: "available",
     },
   ],
@@ -100,7 +107,7 @@ export default function TopUp() {
                                   <p className="fw-medium text-start color-palette-7 m-0">
                                     <sup>$</sup>
                                     {data.price} - <sup>$</sup>
-                                    {data.price} USD
+                                    {data.price2} USD
                                   </p>
                                 </td>
                                 <td>
@@ -118,7 +125,6 @@ export default function TopUp() {
                       </div>
                     ))}
                   </div>
-
                   <div className="slideshowDots">
                     {dataRow.map((_, idx) => (
                       <div
