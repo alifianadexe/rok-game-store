@@ -12,7 +12,7 @@ export default function Footer() {
               </a>
               <p className="mt-30 text-lg color-palette-1 mb-30">
                 Rise Of Kingdom
-                <br /> By Lemon Store
+                <br /> By Lemon Group
               </p>
             </div>
             <div className="col-lg-8 mt-lg-0 mt-20">

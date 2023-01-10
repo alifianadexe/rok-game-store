@@ -8,6 +8,7 @@ import {
   MDBModalTitle,
   MDBModalBody,
 } from "mdb-react-ui-kit";
+
 import Swal from "sweetalert2";
 import Image from "next/dist/client/image";
 import { faCutlery } from "@fortawesome/free-solid-svg-icons";
@@ -35,7 +36,7 @@ export default function JokiAccount() {
                         onClick={() => {
                           Swal.fire({
                             title: "Daily",
-                            html: "Claim VIP<br/> Open Traven<br/> Material Products<br/> Train and Heal Troopers<br/> Upgrade Building and Research <br/> Buy Courier Station Items",
+                            html: "(Complete Daily Mission)<br/> Gathering Reseorce 1x<br/> Clear Action Point daily<br/> Train and Heal Troops<br/> Help Allies<br/ > Open Tavern<br/ > Sunset Canyon<br/ > Produce Material<br/ > Upgrade Building and Research<br/> Buy Courier Station Items<br/ > Use Boost dan Knowledge Item",
                             width: 650,
                             padding: "3em",
                             color: "#ea8823",
@@ -51,7 +52,7 @@ export default function JokiAccount() {
                       <div>
                         <p className="text-sm color-palette-2 mb-1">Price</p>
                         <p className="text-2xl color-palette-7 fw-medium m-0">
-                          <sup>$</sup>9.6 USD/Month
+                          <sup>$</sup>10 USD/Month
                         </p>
                       </div>
                     </div>
